@@ -21,7 +21,7 @@
       (symbol "MCP1642B{slash}D-33I_0_1"
         (rectangle (start -7.62 12.7) (end 7.62 -12.7)
           (stroke (width 0) (type default) (color 0 0 0 0))
-          (fill (type none))
+          (fill (type background))
         )
       )
       (symbol "MCP1642B{slash}D-33I_1_1"

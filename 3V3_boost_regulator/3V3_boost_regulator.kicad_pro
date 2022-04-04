@@ -398,8 +398,8 @@
       "idf": "",
       "netlist": "3V3_boost_regulator.net",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "3V3_boost_regulator.step",
+      "vrml": "3V3_boost_regulator.wrl"
     },
     "page_layout_descr_file": ""
   },

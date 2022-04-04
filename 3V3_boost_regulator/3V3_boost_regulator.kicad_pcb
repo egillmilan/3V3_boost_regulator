@@ -131,7 +131,7 @@
       (net 3 "GND") (pintype "passive") (tstamp 0532a8d5-8c20-4738-8798-6e073ed5a8f0))
     (pad "2" smd roundrect locked (at 1.0375 0 90) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
       (net 4 "Net-(C1-Pad2)") (pintype "passive") (tstamp d1feff21-7eba-4b15-8720-b52f55c0ca51))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -174,7 +174,7 @@
       (net 3 "GND") (pintype "passive") (tstamp 457053ac-d2d0-480f-bbde-95135ea25497))
     (pad "2" smd roundrect locked (at 1.0375 0 270) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
       (net 1 "Net-(C2-Pad2)") (pintype "passive") (tstamp 3e8b3136-a79f-405f-b1c7-b60bccf7450d))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -217,7 +217,7 @@
       (net 3 "GND") (pintype "passive") (tstamp e526f61b-e3b2-4d3e-9288-0bfaf281b2d3))
     (pad "2" smd roundrect locked (at 1.0375 0 270) (size 1.175 1.45) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.212766)
       (net 1 "Net-(C2-Pad2)") (pintype "passive") (tstamp aaa9f8c5-595e-4132-8261-8afe673c2e15))
-    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0805_2012Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -259,7 +259,7 @@
       (net 1 "Net-(C2-Pad2)") (pintype "passive") (tstamp eeb24c1e-dc5a-4295-9184-56f985c5b17b))
     (pad "2" smd roundrect locked (at 1 0 180) (size 1.2 1.4) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.208333)
       (net 2 "Net-(R1-Pad2)") (pintype "passive") (tstamp 6f16dd1f-a440-44e3-a3a9-d6e6e989b612))
-    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_0805_2012Metric.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -333,7 +333,7 @@
       (net 3 "GND") (pinfunction "EP") (pintype "power_in") (tstamp dc90f27a-0582-4841-9940-0576394bdc04))
     (pad "9" smd rect (at 0 0 90) (size 1.75 1.45) (layers "F.Cu" "F.Mask")
       (net 3 "GND") (pinfunction "EP") (pintype "power_in") (tstamp ee217293-ddc6-462b-afed-e924309e0558))
-    (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Package_DFN_QFN.3dshapes/DFN-8-1EP_3x2mm_P0.5mm_EP1.3x1.5mm.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -427,7 +427,7 @@
       (net 3 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp 0f16f15c-d889-430d-bdc7-8ae1f82b9520))
     (pad "2" thru_hole oval (at 0 -2.54 180) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 1 "Net-(C2-Pad2)") (pinfunction "Pin_2") (pintype "passive") (tstamp 433b1ecd-54b5-48e5-b032-86015a03ddd1))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -468,7 +468,7 @@
       (net 3 "GND") (pinfunction "Pin_1") (pintype "passive") (tstamp aa8de8f4-81c7-4340-b57a-e29b4bba9044))
     (pad "2" thru_hole oval (at 0 -2.54) (size 1.7 1.7) (drill 1) (layers *.Cu *.Mask)
       (net 4 "Net-(C1-Pad2)") (pinfunction "Pin_2") (pintype "passive") (tstamp 6182ca9b-1bd4-4f37-bff8-2540085c3fe2))
-    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl"
+    (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
