@@ -1,6 +1,6 @@
 (footprint "PinHeader_1x02_P2.54mm_Vertical_with_Edge_Connector" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 625A737C)
+  (tedit 625ABDF8)
   (descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row, with edge connector/castellations")
   (tags "Through hole pin header THT 1x02 2.54mm single row")
   (attr through_hole)
@@ -47,9 +47,4 @@
           (xy 1.27 -0.85)
         ) (width 0) (fill yes))
     ) (tstamp e53a1afb-1269-4ccc-9d39-72635457c7f7))
-  (model "${KICAD6_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Vertical.wrl"
-    (offset (xyz 0 0 0))
-    (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
-  )
 )
